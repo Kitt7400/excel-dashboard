@@ -34,9 +34,3 @@ This repository contains an interactive **Excel dashboard** built for analyzing 
 ![Dashboard Preview](dashboard_preview.png)
 
 ---
-
-## 🔖 Ideal For:
-- Business Analysts
-- Excel learners
-- Portfolio/demo projects
-- Sales reporting
